@@ -1,3 +1,3 @@
-module TestGoLib
+module puppy
 
 go 1.22.1
